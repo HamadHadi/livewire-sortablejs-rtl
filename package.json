@@ -11,7 +11,7 @@
         "url": "https://github.com/nextapps-be/livewire-sortablejs"
     },
     "dependencies": {
-        "sortablejs": "^1.15.1"
+        "sortablejs": "github:HamadHadi/Sortable-rtl"
     },
     "devDependencies": {
         "esbuild": "^0.19.5"
